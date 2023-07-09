@@ -14,7 +14,7 @@ Hello, I'm Yang Yanqing.
 [BioSimulation](https://github.com/yqyang733/BioSimulation)   
 [BioResearch](https://github.com/yqyang733/BioResearch)   
 [BioProject](https://github.com/yqyang733/BioProject)  
-[StandardMD-gm](https://github.com/yqyang733/StandardMD-gmx)  
+[StandardMD-gmx](https://github.com/yqyang733/StandardMD-gmx)  
 [mk_scripts](https://github.com/yqyang733/mk_scripts)  
 [Gallery](https://github.com/yqyang733/Gallery)   
 [Membrane_system](https://github.com/yqyang733/Membrane_system)  
