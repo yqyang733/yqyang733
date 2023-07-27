@@ -30,7 +30,8 @@ The following is a brief introduction to repos:
 [REMD_FEP-gmx](https://github.com/yqyang733/REMD_FEP-gmx)   
 
 ## AI
-[Machine_Learning_Models](https://github.com/yqyang733/Machine_Learning_Models) 
+[Machine_Learning_Models](https://github.com/yqyang733/Machine_Learning_Models)     
+[AI_scripts](https://github.com/yqyang733/AI_scripts)   
 
 ## Others
 [Keep_learning](https://github.com/yqyang733/Keep_learning)   
