@@ -20,6 +20,7 @@ The following is a brief introduction to repos:
 [SMD-gmx](https://github.com/yqyang733/SMD-gmx)  
 [PMF-gmx](https://github.com/yqyang733/PMF-gmx)    
 [REMD_Setup-gmx](https://github.com/yqyang733/REMD_Setup-gmx)  
+[Metadynamics](https://github.com/yqyang733/Metadynamics)    
 
 ## FEP
 [FEPMolSetup-gmx](https://github.com/yqyang733/FEPMolSetup-gmx)  
