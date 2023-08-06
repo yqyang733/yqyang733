@@ -37,6 +37,10 @@ The following is a brief introduction to repos:
 **[Machine_Learning_Models](https://github.com/yqyang733/Machine_Learning_Models)**     
 **[AI_scripts](https://github.com/yqyang733/AI_scripts)**   
 
+## Projects
+**[D3Similarity](https://github.com/yqyang733/D3Similarity)**   
+**[D3AI-CoV](https://github.com/yqyang733/D3AI-CoV)**    
+
 ## Others
 **[Keep_learning](https://github.com/yqyang733/Keep_learning)**   
 **[References](https://github.com/yqyang733/References)**   
