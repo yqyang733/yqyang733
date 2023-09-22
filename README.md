@@ -33,6 +33,7 @@ The following is a brief introduction to repos:
 **[FEPProSetup-NAMD](https://github.com/yqyang733/FEPProSetup-NAMD)**   
 **[FEPRNASetup-gmx](https://github.com/yqyang733/FEPRNASetup-gmx)**   
 **[REMD_FEP-gmx](https://github.com/yqyang733/REMD_FEP-gmx)**   
+**[Absolute_Free_Energy](https://github.com/yqyang733/Absolute_Free_Energy)**  
 
 ## AI
 **[Machine_Learning_Models](https://github.com/yqyang733/Machine_Learning_Models)**     
@@ -55,6 +56,9 @@ The following is a brief introduction to repos:
 **[BioSimulation](https://github.com/yqyang733/BioSimulation)**   
 **[BioResearch](https://github.com/yqyang733/BioResearch)**   
 **[BioProject](https://github.com/yqyang733/BioProject)**    
+**[Aptamer](https://github.com/yqyang733/Aptamer)**  
+**[grocery](https://github.com/yqyang733/grocery)**  
+
 
 ![yqyang733's Github Stats](https://github-readme-stats.vercel.app/api?username=yqyang733&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
